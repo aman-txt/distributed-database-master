@@ -1,0 +1,30 @@
+{
+  "querys": [
+    {
+      "timeStamp": "2022-04-09 16:33:05.298",
+      "database": "University",
+      "condition": "",
+      "isSuccessful": true,
+      "columns": "column1,column2",
+      "query": "CREATE TABLE T1 ( column1 datatype,column2 datatype)",
+      "values": "",
+      "excutionTime": "10ms",
+      "type": "CREATE",
+      "user": "qiwei",
+      "table": "T1"
+    },
+     {
+       "timeStamp": "2022-04-09 16:33:05.298",
+       "database": "University",
+       "condition": "",
+       "isSuccessful": true,
+       "columns": "column1,column2",
+       "query": "CREATE TABLE student ( column1 datatype,column2 datatype)",
+       "values": "",
+       "excutionTime": "10ms",
+       "type": "CREATE",
+       "user": "qiwei",
+       "table": "student"
+     }
+  ]
+}

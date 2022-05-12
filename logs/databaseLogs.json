@@ -1,0 +1,13 @@
+{
+  "databases": [
+    {
+      "timeStamp": "2022-04-09 16:33:05.298",
+      "tables": [
+        { "numberOfRows": 4, "tableName": "students" },
+        { "numberOfRows": 2, "tableName": "university" }
+      ],
+      "numberOfTables": 2,
+      "databaseName": "University"
+    }
+  ]
+}

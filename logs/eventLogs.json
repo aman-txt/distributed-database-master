@@ -1,0 +1,15 @@
+{
+  "events": [
+    {
+      "timeStamp": "2022-04-09 16:33:05.298",
+      "condition": "",
+      "numberOfRowsChanges": 0,
+      "columns": "column1,column2",
+      "values": "",
+      "onDatabase": "University",
+      "onTable": "T1",
+      "event": "CREATE",
+      "crashReport": ""
+    }
+  ]
+}

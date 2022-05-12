@@ -1,0 +1,2 @@
+Total 1 CREATE operations are performed on student
+Total 1 CREATE operations are performed on T1
